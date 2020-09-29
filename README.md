@@ -88,7 +88,7 @@ Open the application on your browser `127.0.0.1:5000`.
 
 
 ## Known Bugs
-* There are no known bugs.
+* There are no known bugs. Feel free to git pull if you get one.
 
 ## Contact Information 
 
