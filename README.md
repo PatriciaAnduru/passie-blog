@@ -4,7 +4,7 @@
 [Patricia Anduru](https://github.com/PatriciaAnduru)
 
 # Description
-Hackersome-blog is a personal blogging website where you can create and share your opinions and other users can read and comment on them. The blog also has random quotes that inspire the users.
+Hackersome-blog is a personal blogging website where you can create and share your opinions and other users can read and comment on them as well as you can comment on other's blogs. The blog also has random quotes that inspire the users.
 
 ## Live Link
 [View Site](https://hackersome-blog.herokuapp.com/)
