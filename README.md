@@ -1,5 +1,4 @@
 # HACKERSOME-BLOG
-# pitch-universe
 ## Author
 
 [PatriciaAnduru](https://github.com/PatriciaAnduru)
