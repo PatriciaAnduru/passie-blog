@@ -1,0 +1,23 @@
+.banner-content{
+    background-image: url("https://bbvaopen4u.com/sites/default/files/img/new/blogsapis.jpg");
+    height: 110vh;
+    width: 97vw;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: red;
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+     background-size: cover;
+    overflow: hidden;
+}
+
+.banner-content{
+    background-color: blueviolet;
+}
+.masthead{
+    background-color: silver;
+}
+.container{
+    background-color: silver;
+}
